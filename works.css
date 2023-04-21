@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: Roboto;
+    color: #ffffff;
+}
+
+body {
+    margin: 0px;
+}
+
+.bg-container {
+    background-color: #e37f71;
+    background-size: cover;
+    height: 100vh;
+    overflow: auto;
+}
+
+.container-1 {
+    display: flex;
+    flex-direction: row;
+    height: 20%;
+}
+
+.container-2 {
+    display: flex;
+    flex-direction: row;
+    height: 20%;
+}
+
+.container-5 {
+    display: flex;
+    flex-direction: row;
+    height: 15%;
+}
+
+.container-3 {
+    display: flex;
+    flex-direction: row;
+    height: 25%;
+}
+
+.container-4 {
+    display: flex;
+    flex-direction: row;
+    height: 20%;
+}
+
+.profile-container {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 20%;
+}
+
+.profile-containers {
+    margin-left: 0px;
+    margin-bottom: 20px;
+    width: 20%;
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+    border-color: #0d1c5e;
+}
+
+.profile-logo {
+    width: 60px;
+}
+
+.logo-text {
+    color: #404457;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.heading-container {
+    width: 40%;
+    margin: 0px;
+    padding: 0px;
+    border-style: solid;
+    border-width: 0px 2px 2px 0px;
+    border-color: #0d1c5e;
+}
+
+.container-3-text {
+    width: 20%;
+}
+
+.radio-button {
+    border-style: solid;
+    border-width: 0px 2px 2px 0px;
+    border-color: #0d1c5e;
+    width: 20%;
+}
+
+.years-container {
+    width: 20%;
+    margin: 0px;
+    padding: 0px;
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+    border-color: #0d1c5e;
+}
+
+.top-part-end-text {
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+    border-color: #0d1c5e;
+}
+
+.container-2-text {
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+    border-color: #0d1c5e;
+}
+
+.paragraph {
+    font-size: 10px;
+    margin-left: 5px;
+    color: #141729;
+}
+
+.years {
+    font-size: 12px;
+    margin-left: 5px;
+    color: #141729;
+    padding: 5px;
+}
+
+.main-heading {
+    color: #192452;
+}
+
+.dot-logo {
+    width: 12px;
+    margin-top: 15px;
+}
